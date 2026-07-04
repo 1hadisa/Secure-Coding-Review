@@ -44,3 +44,6 @@ Bandit identified four security issues:
 - Weak random number generator
 
 These issues were addressed in `secure_app.py`.
+
+## Documentation
+For the complete security review, see report.md.
